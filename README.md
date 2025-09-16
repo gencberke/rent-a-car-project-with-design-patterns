@@ -17,7 +17,7 @@ Implemented with **Layered Architecture** and developed using **Scrum methodolog
 - Strategy, Visitor, Observer
 
 ## 📂 Project Structure
-
+```bash
 ├──rent-a-car-project/
   │
   ├── src/
